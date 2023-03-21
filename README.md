@@ -1,7 +1,6 @@
 # fevideo-doc
 
-The document or demo about FE videos which published at bilibili
-
+node各个框架的优缺点
 ## History
 
 - 2020/08/01 为什么会有Node.js，其衍生框架Express、Koa、Egg.js的演进过程 [B站视频链接](https://www.bilibili.com/video/BV1QD4y1m7Bm) [资料链接](src/为什么会有Node.js)
